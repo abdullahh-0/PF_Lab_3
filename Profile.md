@@ -3,7 +3,7 @@
 
 **Step 1:** START
 
-**Step 1:** Enter a number
+**Step 1:** Enter the number
 
 **Step 1:** Divide the number by 2 
 
